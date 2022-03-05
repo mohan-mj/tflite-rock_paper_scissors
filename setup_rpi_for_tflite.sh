@@ -1,6 +1,3 @@
-# tflite-rock_paper_scissors
-
-``` shell
 # Show your Raspberry Pi OS version.
 cat /etc/os-release
 
@@ -35,5 +32,3 @@ python detect.py
 # ImportError: libcblas.so.3: cannot open shared object file: No such file or directory
 # you can fix it by installing an OpenCV dependency that is missing on your Raspberry Pi.
 sudo apt-get install libatlas-base-dev
-
-```
